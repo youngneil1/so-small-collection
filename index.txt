@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>so small collection by youngneil1</title>
+<style>
+  body {
+    font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+    background: #0a0f1a;
+    color: white;
+    padding: 2rem;
+    line-height: 1.5;
+    max-width: 1100px;
+    margin: auto;
+  }
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  pre {
+    white-space: pre-wrap;
+    margin-bottom: 2rem;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1rem;
+  }
+  .card {
+    display: block;
+    padding: 1rem;
+    background: #111827;
+    border: 1px solid #374151;
+    border-radius: 0.5rem;
+    text-decoration: none;
+    color: white;
+    transition: transform 120ms ease, background 120ms ease;
+  }
+  .card:hover {
+    background: #1f2937;
+    transform: translateY(-2px);
+  }
+  .card h2 {
+    font-size: 1.05rem;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+  }
+  .card p {
+    font-size: 0.95rem;
+    color: #d1d5db;
+    margin: 0;
+  }
+  .footer-buttons {
+    margin-top: 3rem;
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+  .footer-buttons button {
+    background: #374151;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 0.3rem;
+    cursor: pointer;
+    transition: background 120ms ease;
+  }
+  .footer-buttons button:hover {
+    background: #4b5563;
+  }
+</style>
+</head>
+<body>
+
+<h1>so small collection<br>by youngneil1</h1>
+<pre>
+A cohesive series of standalone Starfield Creations. Each Creation can be played stand alone, even balancewise. They form a greater whole though - the more of them you combine, the more you see this final shape. The overarching idea is to create a gameworld that feels immensely vast, begs for thorough exploration, is full of mysteries, plays truely challenging and lasts very, very long. In other words the goal of the mods is to make the player feel: so small.
+
+Clicking each of the buttons below will directly lead you to the Creation's official page.
+</pre>
+
+<div class="grid">
+<a class="card" href="https://creations.bethesda.net/en/starfield/details/4bd2936a-139f-4177-a4c8-2ab26261bb74/Dynamic_Universe" target="_blank"><h2>Dynamic Universe</h2><p>A universe that dynamically scales up with your character level - be it star systems or individual enemies. No more outleveling of content, no more overleveled starts of NG+.</p></a>
+<a class="card" href="https://creations.bethesda.net/en/starfield/details/5cd7a70c-06b5-4278-90c5-24583f3ffb3b/Gear_Progression" target="_blank"><h2>Gear Progression</h2><p>Gear Progression adds levels to all weapons, suits, helmets and backpacks. Your character level must match these in order to equip the gear. Each NG+ these levels raise further.</p></a>
+<a class="card" href="https://creations.bethesda.net/en/starfield/details/79b2bcc4-1092-4d5b-ac00-013e89121152/Economy" target="_blank"><h2>Economy</h2><p>Economy shifts income generation away from tiresome loot hauling. Ship building becomes the long term goal it's meant to be. As credits get more scarce, rewards remain meaningful.</p></a>
+<a class="card" href="https://creations.bethesda.net/en/starfield/details/2af5ce7f-6684-4873-9a49-eae0de4e02e0/Explorer" target="_blank"><h2>Explorer</h2><p>An immersive overhaul of the resources - crafting - exploration loop. Get out there into the Starfield and explore - the rewards are much bigger now, but so is the need to do it.</p></a>
+<a class="card" href="https://creations.bethesda.net/en/starfield/details/920449b7-d70a-4986-be10-1ab0ef01ae35/Linearity" target="_blank"><h2>Linearity</h2><p>A new gameplay mode where reloading is your last resort. Live and embrace your adventure as it unfolds, imperfect as it may be. You can always save to quit and continue later.</p></a>
+<a class="card" href="https://creations.bethesda.net/en/starfield/details/4f5fd948-3e3e-4fdc-90d9-f3e8892fe938/Slow_Travel" target="_blank"><h2>Slow Travel</h2><p>Slow Travel makes your journey through Starfield much more tactile and immersive by grav jump costs, less map markers, no move on overencumberance and restricted fast travel.</p></a>
+<a class="card" href="https://creations.bethesda.net/en/starfield/details/0eafdcdc-740d-4152-b78e-e1254727c7d8/Star_Powers" target="_blank"><h2>Star Powers</h2><p>Live as a Spellblade in the Settled Systems. Powers are rebalanced so that eg crowd control, slowed time and near invisibiilty become interesting instead of game balance breaking.</p></a>
+<a class="card" href="https://creations.bethesda.net/en/starfield/details/19cc449e-ff8b-4cfa-a380-f733274a1408/The_Isotopes" target="_blank"><h2>The Isotopes</h2><p>A compelling reason to explore POI in all Star Systems. Loot the 75 new Isotopes, each specific to a singular Star System. They are needed for rank 4 skills and gear mod crafting.</p></a>
+<a class="card" href="https://creations.bethesda.net/en/starfield/details/13875651-bda0-4d1a-84a8-2ecbae1f8418/High_Level_Weapons" target="_blank"><h2>High Level Weapons</h2><p>Continue to find better weapons, all the way up to level 300. 7+ new revisions/tiers for each of 50 weapon types. Uniquely named, legendary, each hidden in a specific star system.</p></a>
+<a class="card" href="https://creations.bethesda.net/en/starfield/details/7df4b1c9-d89d-4151-b013-a9a4aa20d710/High_Level_Armors" target="_blank"><h2>High Level Armors</h2><p>Continue to find better armors up to lvl 255. All HLA share about the same power level - mix and match for the looks you like. Starborn armors improve in quality and variety, too.</p></a>
+<a class="card" href="https://creations.bethesda.net/en/starfield/details/ea48ef38-fa3b-4882-b03b-8c3517d74a64/Counterfire_Achievement_Friendly" target="_blank"><h2>Counterfire</h2><p>Starting with level 85 the player gets 1% more ground combat damage for each level. Idealy used in combination with the "High Level Weapons" mod.</p></a>
+<a class="card" href="https://creations.bethesda.net/en/starfield/details/e4ccbc9f-cc7b-4085-b338-5b1a154e46b7/Terra_Incognita" target="_blank"><h2>Terra Incognita</h2><p>All ground surface maps disabled. No markers, no topography, no top down small buildings, no white dots - nothing. Welcome to Terra Incognita - the universe is yours to discover.</p></a>
+<a class="card" href="https://creations.bethesda.net/en/starfield/details/83445e14-f239-427d-b1a7-147d639609ab/Helium_4" target="_blank"><h2>Helium-4</h2><p>Gravjumping requires a pilot to inhale new Helium-4. Not storable and non-tradable - lasts 2 jumps. Explore those moons to get it. Can you chart a course across the Blackest Sea?</p></a>
+<a class="card" href="https://creations.bethesda.net/en/starfield/details/012da604-e959-4963-96e3-5dea1d940543/Dusty" target="_blank"><h2>Dusty</h2><p>The new stat Suit Energy depletes rapidly on airless worlds. Mine minerals or take shelter to survive. Five very hidden grains of Elder Dust reward the true Dusties out there.</p></a>
+<a class="card" href="https://creations.bethesda.net/en/starfield/details/44f71dda-8c57-476c-a283-406f2c1bcfe7/Less_XP" target="_blank"><h2>Less XP</h2><p>Extra XP for more difficult vanilla gameplay options removed. New options to turn off crafting XP, lower XP for killing fauna and adjust XP gain rate to 75/50/25/10 percent.</p></a>
+<a class="card" href="https://creations.bethesda.net/en/starfield/details/1c807587-814b-409a-a4f4-cba992937795/The_Waiting_Game" target="_blank"><h2>The Waiting Game</h2><p>Whenever you wait or sleep you will sell loot for zero profit for the next 60 real time minutes. Go visit vendors at different places, adventure naturally, quit the waiting game.</p></a>
+<a class="card" href="https://creations.bethesda.net/en/starfield/details/9cede670-d123-42bf-a15b-674f7b495058/Enter_Unity" target="_blank"><h2>Enter Unity</h2><p>With Enter Unity your origin universe has a max level of 60, raised by 30 with each NG+. If you enter Unity more than 50 levels below max though, you are in for big trouble.</p></a>
+<a class="card" href="https://creations.bethesda.net/en/starfield/details/799f65f8-73ee-4fc3-bcef-99b9ae819848/POI_Rotation" target="_blank"><h2>POI Rotation</h2><p>A new realtime timer and a new list of discovered POI (Points of Interest) effectively prevent repetition. It will take many hours before you can encounter the same POI twice.</p></a>
+<a class="card" href="https://creations.bethesda.net/en/starfield/details/cc75bbde-e4ea-4081-9e28-869ff1a5d6da/Rarity" target="_blank"><h2>Rarity</h2><p>Increase your chances of finding Legendary and Epic loot by fully surveying Star Systems. The more you explore, the better the loot. But beware, all beginnings are hard.</p></a>
+<a class="card" href="https://creations.bethesda.net/en/starfield/details/239a4d30-988e-4ab0-ba42-207e07ecbb3f/Health" target="_blank"><h2>Health</h2><p>Health regeneration from the start, but only up to a limit. Increase it by killing enemies, but beware:  if you die or reload midsession you have to rebuild your kill streak.</p></a>
+<a class="card" href="https://creations.bethesda.net/en/starfield/details/4a3f7ae5-d11e-4ed0-aa16-90e070e73f6e/Journey" target="_blank"><h2>Journey</h2><p>Skill ranks 3 and 4 only unlock after crossing Unity many times and having 1000 Units of varying minerals. Broaden your play style, rebuild outpost networks, embrace the journey.</p></a>
+<a class="card" href="https://creations.bethesda.net/en/starfield/details/90041071-ad91-41da-beb2-035bd214a71c/Waylayer" target="_blank"><h2>Waylayer</h2><p>Open field random encounter system. For adventures inbetween the Points of Interest (POI). You never know what lurks out there.</p></a>
+<a class="card" href="https://creations.bethesda.net/en/starfield/details/bdf62236-6327-49eb-ac6a-bafa337b88cc/Time" target="_blank"><h2>Time</h2><p>Touching the Artifact caused rapid cellular decay. Only 24 wait/sleep cycles then it's time to let the white dove go. Reach the next Universe to reset the counter. Use time wisely.</p></a>
+<a class="card" href="https://creations.bethesda.net/en/starfield/details/868b8a97-ec6d-4519-bfda-107e63ddcf97/Death" target="_blank"><h2>Death</h2><p>A new gameplay mode where reloading is your last resort. Live and embrace your adventure as it unfolds, imperfect as it may be. You can always save to quit and continue later.</p></a>
+<a class="card" href="https://creations.bethesda.net/en/starfield/details/0244d02c-49a9-4e8c-a7a7-5dba09d03d14/Ruin" target="_blank"><h2>Ruin</h2><p>A new gameplay mode where reloading is your last resort. Live and embrace your adventure as it unfolds, imperfect as it may be. You can always save to quit and continue later.</p></a>
+</div>
+
+<div class="footer-buttons">
+  <button onclick="showInfo('contact')">Contact</button>
+  <button onclick="showInfo('impressum')">Impressum</button>
+  <button onclick="showInfo('privacy')">Datenschutzhinweise</button>
+</div>
+
+<script>
+function showInfo(type) {
+  if (type === 'contact') {
+    alert("Reach out to me on reddit. My user name there is yourfellowglitch. Thank you!");
+  } else if (type === 'impressum') {
+    alert("Impressum (Legal Notice):\n\nKarl Friedrich\nPfeilstrasse 38\n50672 Cologne\nGermany\nEmail: arcanetwin@googlemail.com");
+  } else if (type === 'privacy') {
+    alert("Datenschutzhinweise (Privacy Policy):\n\nThis site does not collect, process, or store any personal data. It has no payment capabilities. It is solely a collection of links to Starfield's official Creations pages.");
+  }
+}
+</script>
+
+</body>
+</html>
